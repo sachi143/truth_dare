@@ -337,10 +337,9 @@ def home():
                 margin-top: 20px;
                 color: #fff;
                 font-size: 16px;
-                background: rgba(0, 0, 0, 0.6);
                 padding: 10px;
                 border-radius: 10px;
-                width: 100%;
+                width: 25%;
                 text-align: center;
                 position: fixed;
                 bottom: 0;
