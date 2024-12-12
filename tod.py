@@ -333,6 +333,18 @@ def home():
                 from { transform: rotate(0deg); }
                 to { transform: rotate(360deg); }
             }
+             footer {
+                margin-top: 20px;
+                color: #fff;
+                font-size: 16px;
+                background: rgba(0, 0, 0, 0.6);
+                padding: 10px;
+                border-radius: 10px;
+                width: 100%;
+                text-align: center;
+                position: fixed;
+                bottom: 0;
+            }
         </style>
     </head>
     <body>
@@ -343,6 +355,9 @@ def home():
             <div class="bottle" id="bottle"></div>
             <div class="result" id="result"></div>
         </div>
+        <footer>
+            Built with ❤️ by Ram for fun!
+        </footer>
         <script>
             function spinBottle() {
                 const bottle = document.getElementById('bottle');
