@@ -82,8 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Flask**: A lightweight WSGI web application framework in Python.
 - **requests**: A simple HTTP library for Python.
 - **Unsplash**: For the background image used in the web interface.
-```
-
-### Instructions:
-- Replace the placeholders (like the `LICENSE` file) with actual files if needed.
-- You can also add any additional details about customization, configuration, or usage, as required.
