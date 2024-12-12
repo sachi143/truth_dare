@@ -231,17 +231,6 @@ seaborn==0.12.2
 shap==0.41.0
 spacy==3.7.4
 SQLAlchemy==2.0.19
-sqlparse==0.6.0
-tensorboard==2.14.0
-tensorflow==2.14.0
-termcolor==2.3.0
-torch==2.1.0
-torchaudio==2.1.0
-torchmetrics==0.11.1
-torchvision==0.15.0
-tornado==6.3.1
-tqdm==4.65.0
-transformers==4.35.0
 twilio==7.14.0
 urllib3==2.9.4
 wandb==0.15.4
