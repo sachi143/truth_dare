@@ -232,7 +232,3 @@ shap==0.41.0
 spacy==3.7.4
 SQLAlchemy==2.0.19
 twilio==7.14.0
-urllib3==2.9.4
-wandb==0.15.4
-yarl==1.9.2
-zipp==3.15.0
