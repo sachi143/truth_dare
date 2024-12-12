@@ -224,13 +224,6 @@ psutil==5.9.4
 py==1.11.0
 pyarrow==12.0.0
 pyyaml==6.0
-pytest==7.6.1
-pytest-cov==4.1.0
-pytest-mock==3.10.0
-pytest-sugar==0.9.6
-python-dateutil==2.8.2
-pytorch-lightning==2.6.1
-pyttsx3==2.90
 pytorch==2.1.0
 quantum==1.0.0
 quantum-circuit==1.0.0
